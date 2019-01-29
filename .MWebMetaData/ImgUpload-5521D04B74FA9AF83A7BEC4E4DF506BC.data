@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>083594568FDD61EE12AFB4172D58DF8D</key>
+	<array>
+		<dict>
+			<key>localURL</key>
+			<string>media/15249259901907.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/15249259901907.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/15249260106794.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/15249260106794.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/15249260231635.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/15249260231635.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/15249260347049.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/15249260347049.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/15249261915868.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/15249261915868.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/15249262023553.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/15249262023553.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/15249262184956.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/15249262184956.jpg</string>
+		</dict>
+	</array>
+	<key>selectedItem</key>
+	<string>083594568FDD61EE12AFB4172D58DF8D</string>
+</dict>
+</plist>

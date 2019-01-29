@@ -1,0 +1,17 @@
+script(type='text/javascript', src=url_for(theme.js) + '/baidutj.js' + '?v=' + theme.version, async)
+script(type='text/javascript', src='http://gostats.cn/js/counter.js', async)
+
+
+#footer= '© '
+  a(href=url_for('.'), rel='nofollow')= config.title + '.'
+  |  Powered by
+  a(rel='nofollow', target='_blank', href='https://hexo.io')  Hexo.
+  a(rel='nofollow', target='_blank', href='https://github.com/tufu9441/maupassant-hexo')  Theme
+  |  by
+  a(rel='nofollow', target='_blank', href='https://github.com/pagecho')  Cho | Host by 
+  a(rel='noflolow',target='_blank',href='https://www.linode.com/') Linode |
+
+  a(target='_blank',href='http://gostats.cn') 
+    img(src='http://monster.gostats.cn/bin/count/a_484649/t_2/i_38/counter.png')
+
+
