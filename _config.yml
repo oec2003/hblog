@@ -78,5 +78,5 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@106.185.40.37:/var/repo/hexoblog.git
+  repo: git@172.104.121.180:/var/repo/hexoblog.git
   branch: master
