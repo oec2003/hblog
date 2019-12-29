@@ -1,5 +1,5 @@
 ---
-title: # dotNET Core 中怎样操作 AD？
+title: dotNET Core 中怎样操作 AD？
 date: 2019-09-30 22:18:21
 categories: [DotNetCore,AD]
 tags: [DotNetCore,AD]
